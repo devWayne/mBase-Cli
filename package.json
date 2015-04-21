@@ -19,5 +19,5 @@
   "homepage": "https://github.com/devWayne/gulp-mbase",
   "dependencies": {
   },
-  "mBase":["components/banner","elements/arrow"]
+  "mBase":["components/banner","elements/arrow","elements/button"]
 }
