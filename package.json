@@ -1,0 +1,23 @@
+{
+  "name": "mBaseCli",
+  "version": "0.1.0",
+  "description": "",
+  "bin": "bin/cli.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devWayne/gulp-mbase.git"
+  },
+  "author": "Vi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/gulp-mbase/issues"
+  },
+  "homepage": "https://github.com/devWayne/gulp-mbase",
+  "dependencies": {
+  },
+  "mBase":["components/banner","elements/arrow"]
+}
