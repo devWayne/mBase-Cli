@@ -1,6 +1,6 @@
 {
-  "name": "mBaseCli",
-  "version": "0.1.0",
+  "name": "mb-cli",
+  "version": "0.1.1",
   "description": "",
   "bin": "bin/cli.js",
   "main": "index.js",
@@ -9,15 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devWayne/gulp-mbase.git"
+    "url": "https://github.com/devWayne/mBase-Cli.git"
   },
   "author": "Vi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devWayne/gulp-mbase/issues"
+    "url": "https://github.com/devWayne/mBase-Cli/issues"
   },
-  "homepage": "https://github.com/devWayne/gulp-mbase",
-  "dependencies": {
-  },
-  "mBase":["components/banner","elements/arrow","elements/button"]
+  "homepage": "https://github.com/devWayne/mBase-Cli"
 }
