@@ -2,7 +2,7 @@ mBase-Cli
 ============
 > CLI Tool for mBase
 
-#Usage
+##Usage
 
 1. Run `npm install -g mb-cli` to install mBase-Cli
 
@@ -19,4 +19,4 @@ example:
 
 ```
 
-2. Run `mb-cli` and mBase-Cli will do all the things left
+3. Run `mb-cli` and mBase-Cli will do all the things left
