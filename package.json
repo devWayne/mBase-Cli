@@ -1,6 +1,6 @@
 {
   "name": "mb-cli",
-  "version": "0.2.0",
+  "version": "0.2.5",
   "description": "",
   "bin": "bin/cli.js",
   "main": "index.js",
