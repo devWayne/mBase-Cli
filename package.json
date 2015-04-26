@@ -1,6 +1,6 @@
 {
   "name": "mb-cli",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "",
   "bin": "bin/cli.js",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/devWayne/mBase-Cli/issues"
   },
-  "homepage": "https://github.com/devWayne/mBase-Cli"
+  "homepage": "https://github.com/devWayne/mBase-Cli",
+  "dependencies":{
+  	"commander": "~2.6.0"
+  }
 }
